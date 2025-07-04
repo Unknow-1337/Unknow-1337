@@ -32,6 +32,12 @@
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1353829225978658930)
 
+<h2 align="center">⚙️ Dev Tools</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20CODE-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+</p>
 ---
 
 ### 📌 Pinned Projects

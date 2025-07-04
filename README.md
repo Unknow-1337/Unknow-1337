@@ -5,7 +5,7 @@
 
 ---
 
-- 🌱 I’m currently working on [OFFIZIELL](https://discord.gg/offiziell)
+- 🌱 I’m currently working on [SILENT CRIMELIFE](https://discord.gg/silentcl)
 - 🌱 I’m currently learning **[Frameworks & C#]**
 - 💬 How to reach me [Discord](https://discord.com/users/1353829225978658930)
 
@@ -28,19 +28,22 @@
 
 ---
 
-### 🤝 Connect with me:
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1353829225978658930)
-
 <h2 align="center">⚙️ Dev Tools</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/VS%20CODE-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
 </p>
+
 ---
 
-### 📌 Pinned Projects
+### 🤝 Connect with me:
 
-<!-- Example pinned project cards. GitHub automatically displays pinned repos on your profile. You can add text links here if desired. -->
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1353829225978658930)
+
+
+
+### 📌 Pinned Projects
+[SILENT CRIMELIFE](https://discord.gg/silentcl)
+
 

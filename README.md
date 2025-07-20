@@ -1,7 +1,7 @@
 # Hello World
 
 <h1 align="center">Hi 👋, I'm [Luca]</h1>
-<p align="center"><b>A passionate Full-Stack-Developer from Austria</b></p>
+<p align="center"><b>A passionate Developer from Austria</b></p>
 
 ---
 

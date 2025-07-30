@@ -5,7 +5,7 @@
 
 ---
 
-- 🌱 I’m currently working on [SILENT CRIMELIFE](https://discord.gg/silentcl)
+- 🌱 I’m currently working on [NOTHING]
 - 🌱 I’m currently learning **[Frameworks & C#]**
 - 💬 How to reach me [Discord](https://discord.com/users/1353829225978658930)
 
@@ -44,6 +44,6 @@
 
 
 ### 📌 Pinned Projects
-[SILENT CRIMELIFE](https://discord.gg/silentcl)
+[SOON!]
 
 

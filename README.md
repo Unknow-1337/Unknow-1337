@@ -1,14 +1,15 @@
 # I'm into:
 
-- Learning Frameworks & C#
-- Frontend & Backend Development
+<!-- - Learning Frameworks & C#-->
+- :seedling: I’m currently working on [CRIMELIFEALLSTARS V2]
+- Frontend Development
 - Experimenting with Lua, PHP, Node.js, and JavaScript
 
 ---
 
 ## Contact
 
-- Discord: [1353829225978658930](https://discord.com/users/1353829225978658930)
+- :speech_balloon: How to reach me [Discord](https://discord.com/users/1353829225978658930)
 
 ---
 
@@ -48,9 +49,8 @@
 
 ## 📌 Pinned Projects
 
-> SOON!
+> [CRIMELIFEALLSTARS](https://discord.gg/crimelifeallstars)
 
 ---
 
 <!-- Reference image from officialchristheg’s README style -->
-![image1](image1)

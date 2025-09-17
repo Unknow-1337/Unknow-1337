@@ -1,49 +1,56 @@
-# Hello World
+# I'm into:
 
-<h1 align="center">Hi 👋, I'm [Luca]</h1>
-<p align="center"><b>A passionate Developer from Austria</b></p>
-
----
-
-- 🌱 I’m currently working on [NOTHING]
-- 🌱 I’m currently learning **[Frameworks & C#]**
-- 💬 How to reach me [Discord](https://discord.com/users/1353829225978658930)
-
-
+- Learning Frameworks & C#
+- Frontend & Backend Development
+- Experimenting with Lua, PHP, Node.js, and JavaScript
 
 ---
 
-### 🛠️ Languages and Tools:
+## Contact
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40"/>
-</p>
+- Discord: [1353829225978658930](https://discord.com/users/1353829225978658930)
 
 ---
 
-<h2 align="center">⚙️ Dev Tools</h2>
+## Socials
 
-<p align="center">
-  <img src="https://img.shields.io/badge/VS%20CODE-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-</p>
+<a href="https://discord.com/users/1353829225978658930">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
 
 ---
 
-### 🤝 Connect with me:
+## Tech Stack
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1353829225978658930)
+![CSS](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
+---
 
+## Dev Tools
 
-### 📌 Pinned Projects
-[SOON!]
+![VS Code](https://img.shields.io/badge/VS%20CODE-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Windows](https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+---
 
+## GitHub Stats
+
+<!-- You can use https://github.com/anuraghazra/github-readme-stats or similar -->
+<!-- Example: -->
+<!-- ![Luca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Unknow-1337&show_icons=true&theme=tokyonight) -->
+
+---
+
+## 📌 Pinned Projects
+
+> SOON!
+
+---
+
+<!-- Reference image from officialchristheg’s README style -->
+![image1](image1)

@@ -39,7 +39,7 @@
 
 ---
 
-## GitHub Stats
+<!--## GitHub Stats-->
 
 <!-- You can use https://github.com/anuraghazra/github-readme-stats or similar -->
 <!-- Example: -->
